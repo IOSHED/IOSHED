@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/YourProfile">
-    <img src="https://komarev.com/ghpvc/?username=YourProfile&label=Profile%1Views&color=blue&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=YourProfile&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/YourProfile?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-3+-brightgreen?logo=github" alt="Projects" />
