@@ -52,10 +52,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IOSHED&show_icons=true&theme=dark" alt="GitHub Stats" width="55%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IOSHED&layout=compact&theme=dark" alt="Top Languages" width="40%"/> 
-</p>
+[![IOSHED's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IOSHED&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/IOSHED)
+[![IOSHED's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IOSHED&layout=compact&theme=dark)](https://github.com/IOSHED)
 
 <p align="center">
   🔥 <em>"Architecting systems that scale to the moon and back"</em> 🔥
