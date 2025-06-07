@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Ivenin Valentin</h1>
-<h3 align="center">🚀 Junior Developer</h3>
+<h3 align="center">🚀 Internal Developer</h3>
 
 <p align="center">
   <a href="https://github.com/IOSHED">
