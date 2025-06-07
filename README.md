@@ -3,7 +3,12 @@
 <h3 align="center">🚀 Junior Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IOSHED&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <a href="https://github.com/IOSHED">
+    <img src="https://komarev.com/ghpvc/?username=IOSHED&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/IOSHED?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-3+-brightgreen?logo=github" alt="Projects" />
+  </a>
 </p>
 
 ---
