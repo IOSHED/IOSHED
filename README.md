@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hi, I'm Ivenin Valentin</h1>
-<h3 align="center">🚀 Internal Developer</h3>
+<h3 align="center">🚀 Rust Developer</h3>
 
 <p align="center">
   <a href="https://github.com/IOSHED">
@@ -34,7 +34,7 @@
 |--------|-------------|------------|
 | [**AdEngine**](https://github.com/IOSHED/Iosh__AdEngine) | 🧠 Высоконагруженный микросервис для управления рекламными кампаниями: генерация текста, Telegram-бот, цензура, мониторинг. Реализован с чистой архитектурой и масштабируемыми компонентами. | `Rust`, `Actix`, `Python`, `Aiogram`, `Postgres`, `Redis`, `Prometheus`, `Grafana`, `Docker` |
 | [**FROCalculator**](https://github.com/IOSHED/Iosh__Calculator) | ⚡ Минималистичный CLI-калькулятор с поддержкой математических функций, переменных и парсингом выражений без символа умножения. | `Rust`, `Lalrpop` |
-| [**3DRenderEngine**](https://github.com/IOSHED/Iosh__3DRenderEngine) | 🧱 Индивидуальный проект по созданию собственного движка 3D рендеринга с загрузкой `.obj` моделей, матричными трансформациями и освещением. | `Python`, `Numpy`, `Pygame` |
+| [**3DRenderEngine**](https://github.com/IOSHED/Iosh__3DRenderEngine) | 🧱 Проект по созданию собственного движка 3D рендеринга с загрузкой `.obj` моделей, матричными трансформациями и освещением. | `Python`, `Numpy`, `Pygame` |
 
 ---
 
