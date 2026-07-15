@@ -42,7 +42,9 @@
 
 - 🥉 **3rd Place Nationwide** - PROD Olympiad in Software Engineering (2025)  
   ![PROD](https://img.shields.io/badge/Level-Advanced-blueviolet)
-- 🏅 **Top** - Юнтех Hackathon (2024)  
+- 🏅 **Top Solve** - Юнтех Hackathon (2024)  
+  ![Hackathon](https://img.shields.io/badge/Level-Initial-orange)
+- 🏅 Participant – MTS Tech Hackathon (2026)
   ![Hackathon](https://img.shields.io/badge/Level-Initial-orange)
 
 ---
